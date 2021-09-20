@@ -1,6 +1,6 @@
 # Practical Application of Monte Carlo Phenomenon 
 
-This repo is part of the Minor Project under Dr. Rishu Chaujar, Assistant Prof. Delhi Technological University.
+This repo is part of the Personal Exploratory Project
 
 Title : Using Randomness To Our Advantage   “Monte Carlo Simulations”.
 
